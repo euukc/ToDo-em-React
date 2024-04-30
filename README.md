@@ -1,5 +1,7 @@
 # TODO List
 
+// Criado para melhorar minhas habilidades em ReactJS, tendo como funcionalidade de armazenamento persistente o localStorage para salvar e carregar tarefas.
+
 
  ## 🛠️ Tecnologias Utilizadas
  
@@ -7,6 +9,7 @@
  - SCSS
  - Javascript
  - React.JS
+- LocalStorage
 
 
 
